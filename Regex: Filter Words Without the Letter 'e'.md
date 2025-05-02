@@ -30,6 +30,4 @@ print("Words without 'e':", l1)
 ![438594607-a80859da-2d91-4ad1-bcc8-62df36ec9b89](https://github.com/user-attachments/assets/8d5f77bc-02d8-48de-8305-4b26c42c2972)
 
 ## Result
-Thus, the python program was executed successfully
-
-# 🧾 Program
+Thus, the python program was executed successfully.
